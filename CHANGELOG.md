@@ -5,3 +5,5 @@
 - Added Icon
 
 - Added attributes to package.json
+
+- Added License
