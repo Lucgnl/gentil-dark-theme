@@ -1,0 +1,32 @@
+{
+  "name": "gentil-dark-theme",
+  "displayName": "Gentil Dark",
+  "description": "A soft dark theme",
+  "icon" : "icon.png",
+  "galleryBanner": {
+    "color": "#191B1F",
+    "theme": "dark"
+  },
+  "version": "0.0.3",
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": ["dark", "dark-theme", "soft", "soft-theme"],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Gentil Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Gentil Dark-color-theme.json"
+      }
+    ]
+  },
+  "pricing": "Free",
+  "publisher": "lucgnl",
+  "author": {
+    "name": "Lucas"
+  }
+}
