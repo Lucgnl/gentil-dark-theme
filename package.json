@@ -20,7 +20,7 @@
       {
         "label": "Gentil Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/Gentil Dark-color-theme.json"
+        "path": "./themes/gentil-dark-color-theme"
       }
     ]
   },
