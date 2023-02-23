@@ -7,7 +7,7 @@
     "color": "#191B1F",
     "theme": "dark"
   },
-  "version": "1.0.0",
+  "version": "1.1.1",
   "engines": {
     "vscode": "^1.75.0"
   },
@@ -20,7 +20,7 @@
       {
         "label": "Gentil Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/gentil-dark-color-theme"
+        "path": "./themes/gentil-dark-color-theme.json"
       }
     ]
   },
