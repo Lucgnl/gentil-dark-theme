@@ -2,12 +2,18 @@
   "name": "gentil-dark-theme",
   "displayName": "Gentil Dark",
   "description": "A soft dark theme",
+  "version": "1.1.1",
+  "publisher": "lucgnl",
+  "license": "MIT",
   "icon" : "icon.png",
   "galleryBanner": {
     "color": "#191B1F",
     "theme": "dark"
   },
-  "version": "1.1.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Lucgnl/gentil-dark-theme"
+  },
   "engines": {
     "vscode": "^1.75.0"
   },
@@ -25,12 +31,7 @@
     ]
   },
   "pricing": "Free",
-  "publisher": "lucgnl",
   "author": {
     "name": "Lucas"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/Lucgnl/gentil-dark-theme"
   }
 }
