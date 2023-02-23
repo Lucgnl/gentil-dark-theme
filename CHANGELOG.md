@@ -7,3 +7,5 @@
 - Added attributes to package.json
 
 - Added License
+
+- Made colors softer
